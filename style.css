@@ -54,6 +54,8 @@
 .icons .fa-brands{
     color:#bbb;
     font-size: 1.7rem;
+    padding-top: 80px;
+    padding-left: 40px;
 
 }
 .icon{
@@ -61,7 +63,8 @@
     flex-direction: row;
     justify-content: center;
     align-items:center;
-    gap: 5rem;
+    gap: 7rem;
+
 
 }
 .content{
@@ -132,7 +135,7 @@ button:nth-child(2):hover{
 }
 .circle:nth-child(2){
     width:27rem;
-    background-image:url("portfolioimage.jpg") ;
+    background-image:url("image/portfolioimage.jpg") ;
     background-size: 100%;
     background-repeat: no-repeat;
     border:.1rem solid white;
